@@ -111,9 +111,9 @@ export function EsoSection() {
             Developed a centralized Logs Dashboard for the Maintenance, Support,
             and Engineering (MSE) department to track errors in telescopes and
             precision instruments. Aggregated system telemetry into an indexed
-            Elasticsearch log database, writing custom Jupyter notebooks to
-            parse telemetry data logic, and used Voilà to serve those outputs as
-            real-time, interactive observational dashboards for observatory
+            Elasticsearch log database, writing custom Python Jupyter notebooks
+            to parse telemetry data logic, and used Voilà to serve those outputs
+            as real-time, interactive observational dashboards for observatory
             engineers.
           </p>
         </div>

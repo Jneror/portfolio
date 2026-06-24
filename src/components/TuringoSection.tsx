@@ -62,8 +62,9 @@ export function TuringoSection() {
             </h3>
             <p className="text-sm text-zinc-500 dark:text-zinc-400 leading-normal">
               Collaborated on the design and implementation of an e-learning
-              platform using Vue.js, Node.js and MySQL. Developed core features
-              for course enrollment, video streaming, and community interaction.
+              platform using Vue.js, Typescript, Node.js and MySQL. Developed
+              core features for course enrollment, video streaming, and
+              community interaction.
             </p>
           </div>
         </div>

@@ -43,8 +43,8 @@ export function YouTubeSection() {
           </span>
         </div>
         <p className="text-sm text-zinc-500 dark:text-zinc-400">
-          Full stack development, feature ownership from design to launch to
-          analytics, overseas cross-team collaboration.
+          Full stack development in C++, feature ownership from design to launch
+          to analytics, overseas cross-team collaboration.
         </p>
       </div>
 
