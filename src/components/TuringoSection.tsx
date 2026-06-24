@@ -60,7 +60,7 @@ export function TuringoSection() {
             <h3 className="text-sm font-semibold tracking-tight text-zinc-900 dark:text-zinc-100 transition-colors duration-300 group-hover:text-[#febab9] dark:group-hover:text-[#febab9]">
               Full-Stack Development
             </h3>
-            <p className="text-xs text-zinc-500 dark:text-zinc-400 leading-normal">
+            <p className="text-sm text-zinc-500 dark:text-zinc-400 leading-normal">
               Collaborated on the design and implementation of an e-learning
               platform using Vue.js, Node.js and MySQL. Developed core features
               for course enrollment, video streaming, and community interaction.
@@ -115,7 +115,7 @@ export function TuringoSection() {
             <h3 className="text-sm font-semibold tracking-tight text-zinc-900 dark:text-zinc-100 transition-colors duration-300 group-hover:text-[#febab9] dark:group-hover:text-[#febab9]">
               Product Evolution
             </h3>
-            <p className="text-xs text-zinc-500 dark:text-zinc-400 leading-normal">
+            <p className="text-sm text-zinc-500 dark:text-zinc-400 leading-normal">
               Successfully pivoted the platform toward a community-driven
               networking model; the site remains active today as a specialized
               tool for professional community building and successful

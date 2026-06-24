@@ -70,7 +70,7 @@ export function YouTubeSection() {
               <h3 className="text-sm font-semibold tracking-tight text-zinc-900 dark:text-zinc-100 transition-colors duration-200 group-hover:text-[#febab9] dark:group-hover:text-[#febab9]">
                 {clip.title}
               </h3>
-              <p className="text-xs text-zinc-500 dark:text-zinc-400 leading-normal">
+              <p className="text-sm text-zinc-500 dark:text-zinc-400 leading-normal">
                 {clip.description}
               </p>
             </div>

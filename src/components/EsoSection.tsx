@@ -107,7 +107,7 @@ export function EsoSection() {
           <h3 className="text-sm font-semibold tracking-tight text-zinc-900 dark:text-zinc-100 transition-colors duration-300 group-hover:text-[#febab9] dark:group-hover:text-[#febab9] mb-1">
             Instrument Monitoring & Logs Dashboard
           </h3>
-          <p className="text-xs sm:text-sm text-zinc-500 dark:text-zinc-400 leading-normal">
+          <p className="text-sm sm:text-sm text-zinc-500 dark:text-zinc-400 leading-normal">
             Developed a centralized Logs Dashboard for the Maintenance, Support,
             and Engineering (MSE) department to track errors in telescopes and
             precision instruments. Aggregated system telemetry into an indexed
